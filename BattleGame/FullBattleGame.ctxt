@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FullBattleGame
+comment1.params=
+comment1.target=void\ restart()
+comment2.params=
+comment2.target=void\ playBattle()
+comment3.params=
+comment3.target=void\ war()
+comment4.params=
+comment4.target=void\ drawHand()
+comment5.params=computer\ player
+comment5.target=void\ drawBattle(Card,\ Card)
+comment6.params=
+comment6.target=void\ endGame()
+comment6.text=\n\ Displays\ a\ win/lose\ message\n
+comment7.params=
+comment7.target=void\ setupGUI()
+comment7.text=\n\ Set\ up\ the\ user\ interface\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
